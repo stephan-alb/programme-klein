@@ -1,5 +1,5 @@
 """*****************************************************************************
-Codeknacker Programm zu Verschluesselungsprogramm
+Codeknacker Programm zu Verschluesselungsprogramm.
 *****************************************************************************"""
 
 #Funktion Umdrehen
