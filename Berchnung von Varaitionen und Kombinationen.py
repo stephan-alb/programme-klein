@@ -83,6 +83,8 @@ def kombination_wiederholung(n, k):
     print() 
     print("Zu Ihren Eingaben gibt es ", fact, " Variationen.")
 
+#def kombination_mit wiederholung
+
 def programm_start():
     print("Programm zur Berechnung von Variationen und Kombinationen\n")
     print("Bitte wählen Sie welche Berechnung Sie vornehmen möchten:\n"
