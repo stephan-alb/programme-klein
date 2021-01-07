@@ -1,6 +1,6 @@
 """*****************************************************************************
 Ein einfaches Verschluesselungsprogramm*****************************************
-1 UMdrehung des Textes - 2 Numerische Verschluesselung Ausgabe des Ascii Wertes
+1 Umdrehung des Textes - 2 Numerische Verschluesselung Ausgabe des Ascii Wertes
 3 Caesar Verschluesselung - 4 Gartenzaunverschluesselung mit 2 Zeilen***********
 *****************************************************************************"""
 
