@@ -33,4 +33,4 @@ print("\n")
 #Aufruf der Funktion
 caesar(eingabe)
 
-print("----Programm Ende----")
+print("-----Programm Ende-----")
